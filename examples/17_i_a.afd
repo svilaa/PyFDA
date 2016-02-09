@@ -1,0 +1,9 @@
+p afd
+s a b
+e 0 1
+i 0
+f 0
+t 0 a 1
+t 0 b 0
+t 1 a 0
+t 1 b 1

@@ -1,0 +1,11 @@
+p afd
+s 0 1
+e A B C
+i A
+f A B
+t A 0 B
+t A 1 B
+t B 0 C
+t B 1 A
+t C 0 C
+t C 1 C

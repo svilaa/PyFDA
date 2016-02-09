@@ -1,0 +1,13 @@
+p afd
+s a b
+e 0 1 4 5
+i 0
+f 5
+t 0 a 1
+t 0 b 5
+t 1 a 1
+t 1 b 4
+t 4 a 5
+t 4 b 1
+t 5 a 5
+t 5 b 1
